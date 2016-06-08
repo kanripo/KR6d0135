@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:45.581971
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:41
 #+TITLE: 止觀科節
 #+PROPERTY: CBETA_ID X55n0917
 #+PROPERTY: ID KR6d0135
